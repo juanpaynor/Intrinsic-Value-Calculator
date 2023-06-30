@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 
 # Replace 'YOUR_API_KEY' with your actual API key
-API_KEY = 'FTXEIRT4HO42GLIL'
+API_KEY = 'Get your API key here https://www.alphavantage.co/'
 
 # Function to fetch stock data for a given symbol
 def get_stock_data(symbol):
